@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>livox_interfaces</name>
+  <name>livox_interfaces2</name>
   <version>0.0.1</version>
   <description>Livox ROS 2 message definitions extracted from livox_ros_driver2</description>
   <maintainer email="you@example.com">you</maintainer>
